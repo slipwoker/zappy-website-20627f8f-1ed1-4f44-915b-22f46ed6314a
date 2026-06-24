@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://pro-sound-20627f8f.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
