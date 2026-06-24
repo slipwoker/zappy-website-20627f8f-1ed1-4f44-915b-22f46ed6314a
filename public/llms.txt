@@ -1,0 +1,83 @@
+# Pro Sound — Generative Engine Optimization Map
+
+> An event equipment rental business specializing in sound systems (speakers), lighting, and mixers. They cater to a wide range of private and social events including birthday parties, celebrations, weddings, and parties. The business focuses on providing complete audio-visual solutions to make events memorable and professionally produced.
+
+---
+
+## Pages
+
+### בית
+https://pro-sound-20627f8f.zappy5.app
+מחפשים להשכיר ציוד הגברה מקצועי לאירוע? Pro Sound מביאה לכם סאונד ותאורה שלא שוכחים. ימי הולדת, חתונות ומסיבות הופכים לחוויה בלתי נשכחת. השאירו פרטים עכשיו!
+
+### ציוד
+https://pro-sound-20627f8f.zappy5.app/equipment
+רמקולים, מיקסרים ומערכות תאורה חדשניות להשכרה. הציוד של Pro Sound הופך כל אירוע פרטי לחוויה מקצועית. בחרו את הציוד המושלם והזמינו עוד היום!
+
+### אודות
+https://pro-sound-20627f8f.zappy5.app/about
+מכירים את Pro Sound? אנחנו מתמחים בהשכרת סאונד ותאורה לאירועים פרטיים עם תשוקה אמיתית למוזיקה. גלו מי עומד מאחורי ההפקות הבלתי נשכחות שלכם.
+
+### צור קשר
+https://pro-sound-20627f8f.zappy5.app/contact
+רוצים להפוך את האירוע שלכם לבלתי נשכח? מלאו פרטים ונחזור אליכם עם הצעת מחיר משתלמת להשכרת ציוד הגברה, תאורה ומיקסרים. האירוע המושלם מתחיל כאן!
+
+### תודה על פנייתך | Pro Sound
+https://pro-sound-20627f8f.zappy5.app/thank-you
+Pro Sound - תודה על פנייתך | Pro Sound
+
+## Legal & Policy
+
+### Privacy Policy
+https://pro-sound-20627f8f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pro-sound-20627f8f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pro-sound-20627f8f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://pro-sound-20627f8f.zappy5.app/contact
+- Endpoint: https://pro-sound-20627f8f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pro Sound
+An event equipment rental business specializing in sound systems (speakers), lighting, and mixers. They cater to a wide range of private and social events including birthday parties, celebrations, weddings, and parties. The business focuses on providing complete audio-visual solutions to make events memorable and professionally produced.
+
+## Target Audience
+- מארגני אירועים, ימי הולדת, חפלות, חתונות ומסיבות
+- מארגני אירועים מקצועיים
+- מארגני ימי הולדת
+- מתכנני חתונות
+
+## Industry
+Event Equipment Rental
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://pro-sound-20627f8f.zappy5.app/sitemap.xml
+- Robots: https://pro-sound-20627f8f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pro-sound-20627f8f.zappy5.app/llms-full.txt
